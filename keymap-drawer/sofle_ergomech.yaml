@@ -102,7 +102,7 @@ layers:
   - DOWN ARROW
   - UP ARROW
   - RIGHT ARROW
-  - ;
+  - ''''
   - Sft+RETURN
   - {t: ▽, type: trans}
   - UNDO
